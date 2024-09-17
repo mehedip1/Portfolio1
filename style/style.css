@@ -34,13 +34,14 @@ nav  {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 100px;
 }
 
 .nav-title {
     color:  #181818 ;
     font-family: "Open Sans";
     font-size: 45px;
-    font-weight: 800;
+  
     
 
 }
@@ -57,5 +58,48 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: rgb(40, 31, 31);
+    color:  #474747;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+   
+   
+}
+
+/* header here  */ 
+
+.header{
+    background-color: #FFF8F3;
+}
+
+.banner{
+    margin: 30px 30px 30px 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+/* .banner-text{
+
+    color: #474747;
+    font-size: 25px;
+
+}
+
+.banner-title{
+
+    color: #474747;
+    font-family: "Open Sans";
+    font-size: 85px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+
+} */
+
+.banner-pic {
+    width: 500px;
 }
