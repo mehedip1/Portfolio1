@@ -217,3 +217,11 @@ nav a {
     text-align: center;
    margin-top: 50px;
 }
+
+.footer{
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+    margin: 100px;
+    padding: 30px;
+}
